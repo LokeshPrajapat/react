@@ -1,0 +1,32 @@
+.mainContainer{
+    width: 500px;
+    height: 500px;
+    border: 3px solid magenta;
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    padding: 5px;
+    background:linear-gradient(to left,magenta,red);
+    color: white;
+}
+.darkLook
+{
+    background:linear-gradient(to left,black,gray);
+    color: white;
+    border: 1px solid red;
+}
+.lightLook
+{
+    background:linear-gradient(to left,white,gray);
+    color: black;
+    border: 1px solid magenta;
+}
+.slogan
+{
+    width: 200px;
+    height: 200px;
+    border: 2px solid orange;
+    margin: 10px;
+    padding: 10px;
+}
